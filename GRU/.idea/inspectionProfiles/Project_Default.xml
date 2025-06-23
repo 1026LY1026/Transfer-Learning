@@ -1,0 +1,16 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyTypeCheckerInspection" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="scrapy.scrapy_dangdang_095.scrapy_dangdang_095.spiders.dang.scrapy_dangdang_095" />
+          <option value="scrapy.scrapy_95_dangdang.scrapy_95_dangdang.spiders.dang.scrapy_95_dangdang" />
+          <option value="scrapy.scrapy_99_movie.scrapy_99_movie.spiders.movie.scrapy_99_movie" />
+          <option value="str.json" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>

@@ -1,0 +1,116 @@
+
+日志参数       |        参数值
+----------------------------------
+实验名称:                  gru_uni单循环加注意力机制
+实验时间:                  2024-01-27 20:27:50.249732
+测试集的精度：               0.46283132605954214
+训练集的精度：               0.4823905079636954
+训练集占比 ：                0
+训练批次：                  2
+训练学习率：                  0.00015
+模型参数：：
+                  lstm_uni_attention(
+  (atten): Sequential(
+    (0): Tanh()
+    (1): Linear(in_features=12, out_features=12, bias=True)
+    (2): Softmax(dim=2)
+  )
+  (rnn1): LSTM(12, 128, num_layers=2)
+  (fc): Sequential(
+    (0): Linear(in_features=128, out_features=64, bias=True)
+    (1): ReLU()
+    (2): Linear(in_features=64, out_features=32, bias=True)
+    (3): ReLU()
+    (4): Linear(in_features=32, out_features=50, bias=True)
+  )
+)
+-------------------------------------------
+
+
+
+日志参数       |        参数值
+----------------------------------
+实验名称:                  gru_uni单循环加注意力机制
+实验时间:                  2024-01-28 13:08:31.708192
+测试集的精度：               0.6604661172489527
+训练集的精度：               0.8755028752715058
+训练集占比 ：                0
+训练批次：                  10
+训练学习率：                  0.00015
+模型参数：：
+                  lstm_uni_attention(
+  (atten): Sequential(
+    (0): Tanh()
+    (1): Linear(in_features=12, out_features=12, bias=True)
+    (2): Softmax(dim=2)
+  )
+  (rnn1): LSTM(12, 128, num_layers=2)
+  (fc): Sequential(
+    (0): Linear(in_features=128, out_features=64, bias=True)
+    (1): ReLU()
+    (2): Linear(in_features=64, out_features=32, bias=True)
+    (3): ReLU()
+    (4): Linear(in_features=32, out_features=50, bias=True)
+  )
+)
+-------------------------------------------
+
+
+
+日志参数       |        参数值
+----------------------------------
+实验名称:                  gru_uni单循环加注意力机制
+实验时间:                  2024-01-28 14:58:23.391103
+测试集的精度：               0.630976851522788
+训练集的精度：               0.817956070657379
+训练集占比 ：                0
+训练批次：                  10
+训练学习率：                  0.00015
+模型参数：：
+                  lstm_uni_attention(
+  (atten): Sequential(
+    (0): Tanh()
+    (1): Linear(in_features=12, out_features=12, bias=True)
+    (2): Softmax(dim=2)
+  )
+  (rnn1): LSTM(12, 128, num_layers=2)
+  (fc): Sequential(
+    (0): Linear(in_features=128, out_features=64, bias=True)
+    (1): ReLU()
+    (2): Linear(in_features=64, out_features=32, bias=True)
+    (3): ReLU()
+    (4): Linear(in_features=32, out_features=50, bias=True)
+  )
+)
+-------------------------------------------
+
+
+
+日志参数       |        参数值
+----------------------------------
+实验名称:                  gru_uni单循环加注意力机制
+实验时间:                  2024-06-06 22:38:09.917222
+测试集的精度：               0.7500105930053514
+训练集的精度：               0.8216979113133722
+训练集占比 ：                0
+训练批次：                  20
+训练学习率：                  0.00015
+模型参数：：
+                  lstm_uni_attention(
+  (atten): Sequential(
+    (0): Tanh()
+    (1): Linear(in_features=12, out_features=12, bias=True)
+    (2): Softmax(dim=2)
+  )
+  (rnn1): LSTM(12, 128, num_layers=2)
+  (fc): Sequential(
+    (0): Linear(in_features=128, out_features=64, bias=True)
+    (1): ReLU()
+    (2): Linear(in_features=64, out_features=32, bias=True)
+    (3): ReLU()
+    (4): Linear(in_features=32, out_features=50, bias=True)
+  )
+)
+-------------------------------------------
+
+

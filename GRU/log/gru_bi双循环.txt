@@ -1,0 +1,300 @@
+
+日志参数       |        参数值
+----------------------------------
+实验名称:                  gru_bi双循环
+实验时间:                  2022-10-22 22:49:46.868915
+测试集的精度：               0.6160708102915315
+训练集的精度：               0.6206600395749163
+训练集占比 ：                0
+训练批次：                  15
+训练学习率：                  0.0001
+模型参数：：
+                  Sequential(
+  (1): GRU_bi(
+    (rnn1): GRU(11, 64, batch_first=True, bidirectional=True)
+  )
+  (2): GRU_bi_toLinear(
+    (rnn1): GRU(128, 32, batch_first=True, bidirectional=True)
+  )
+  (3): Linear(in_features=64, out_features=32, bias=True)
+  (4): ReLU()
+  (5): Linear(in_features=32, out_features=5, bias=True)
+)
+-------------------------------------------
+
+
+
+日志参数       |        参数值
+----------------------------------
+实验名称:                  gru_bi双循环
+实验时间:                  2022-10-22 22:53:12.606020
+测试集的精度：               0.5571375857366152
+训练集的精度：               0.5792386532025724
+训练集占比 ：                0
+训练批次：                  15
+训练学习率：                  0.0001
+模型参数：：
+                  Sequential(
+  (1): GRU_bi(
+    (rnn1): GRU(11, 64, batch_first=True, bidirectional=True)
+  )
+  (2): GRU_bi_toLinear(
+    (rnn1): GRU(128, 32, batch_first=True, bidirectional=True)
+  )
+  (3): Linear(in_features=64, out_features=32, bias=True)
+  (4): ReLU()
+  (5): Linear(in_features=32, out_features=5, bias=True)
+)
+-------------------------------------------
+
+
+
+日志参数       |        参数值
+----------------------------------
+实验名称:                  gru_bi双循环
+实验时间:                  2022-10-23 15:36:02.209692
+测试集的精度：               0.5862561097230037
+训练集的精度：               0.6161530085526983
+训练集占比 ：                0
+训练批次：                  15
+训练学习率：                  0.0001
+模型参数：：
+                  Sequential(
+  (1): GRU_bi(
+    (rnn1): GRU(11, 64, batch_first=True, bidirectional=True)
+  )
+  (2): GRU_bi_toLinear(
+    (rnn1): GRU(128, 32, batch_first=True, bidirectional=True)
+  )
+  (3): Linear(in_features=64, out_features=32, bias=True)
+  (4): ReLU()
+  (5): Linear(in_features=32, out_features=5, bias=True)
+)
+-------------------------------------------
+
+
+
+日志参数       |        参数值
+----------------------------------
+实验名称:                  gru_bi双循环
+实验时间:                  2022-10-23 15:39:19.769589
+测试集的精度：               0.5392198440350346
+训练集的精度：               0.6063520148465065
+训练集占比 ：                0
+训练批次：                  15
+训练学习率：                  0.0001
+模型参数：：
+                  Sequential(
+  (1): GRU_bi(
+    (rnn1): GRU(11, 64, batch_first=True, bidirectional=True)
+  )
+  (2): GRU_bi_toLinear(
+    (rnn1): GRU(128, 32, batch_first=True, bidirectional=True)
+  )
+  (3): Linear(in_features=64, out_features=32, bias=True)
+  (4): ReLU()
+  (5): Linear(in_features=32, out_features=5, bias=True)
+)
+-------------------------------------------
+
+
+
+日志参数       |        参数值
+----------------------------------
+实验名称:                  gru_bi双循环
+实验时间:                  2022-10-23 16:44:33.443344
+测试集的精度：               0.4435334851961028
+训练集的精度：               0.5592633773978883
+训练集占比 ：                0
+训练批次：                  15
+训练学习率：                  0.0001
+模型参数：：
+                  Sequential(
+  (1): GRU_bi(
+    (rnn1): GRU(11, 64, batch_first=True, bidirectional=True)
+  )
+  (2): GRU_bi_toLinear(
+    (rnn1): GRU(128, 32, batch_first=True, bidirectional=True)
+  )
+  (3): Linear(in_features=64, out_features=32, bias=True)
+  (4): ReLU()
+  (5): Linear(in_features=32, out_features=5, bias=True)
+)
+-------------------------------------------
+
+
+
+日志参数       |        参数值
+----------------------------------
+实验名称:                  gru_bi双循环
+实验时间:                  2022-10-23 16:46:01.073108
+测试集的精度：               0.5547828008491016
+训练集的精度：               0.6598034910682167
+训练集占比 ：                0
+训练批次：                  15
+训练学习率：                  0.0001
+模型参数：：
+                  Sequential(
+  (1): GRU_bi(
+    (rnn1): GRU(11, 64, batch_first=True, bidirectional=True)
+  )
+  (2): GRU_bi_toLinear(
+    (rnn1): GRU(128, 32, batch_first=True, bidirectional=True)
+  )
+  (3): Linear(in_features=64, out_features=32, bias=True)
+  (4): ReLU()
+  (5): Linear(in_features=32, out_features=5, bias=True)
+)
+-------------------------------------------
+
+
+
+日志参数       |        参数值
+----------------------------------
+实验名称:                  gru_bi双循环
+实验时间:                  2022-10-23 16:48:08.402681
+测试集的精度：               0.6040551272481234
+训练集的精度：               0.6223358080854374
+训练集占比 ：                0
+训练批次：                  15
+训练学习率：                  0.0001
+模型参数：：
+                  Sequential(
+  (1): GRU_bi(
+    (rnn1): GRU(11, 64, batch_first=True, bidirectional=True)
+  )
+  (2): GRU_bi_toLinear(
+    (rnn1): GRU(128, 32, batch_first=True, bidirectional=True)
+  )
+  (3): Linear(in_features=64, out_features=32, bias=True)
+  (4): ReLU()
+  (5): Linear(in_features=32, out_features=5, bias=True)
+)
+-------------------------------------------
+
+
+
+日志参数       |        参数值
+----------------------------------
+实验名称:                  gru_bi双循环
+实验时间:                  2022-10-24 16:32:21.628150
+测试集的精度：               -1.6550250375254545
+训练集的精度：               0.3680489233051508
+训练集占比 ：                0
+训练批次：                  15
+训练学习率：                  0.0001
+模型参数：：
+                  Sequential(
+  (1): GRU_bi(
+    (rnn1): GRU(12, 64, batch_first=True, bidirectional=True)
+  )
+  (2): GRU_bi_toLinear(
+    (rnn1): GRU(128, 32, batch_first=True, bidirectional=True)
+  )
+  (3): Linear(in_features=64, out_features=32, bias=True)
+  (4): ReLU()
+  (5): Linear(in_features=32, out_features=10, bias=True)
+)
+-------------------------------------------
+
+
+
+日志参数       |        参数值
+----------------------------------
+实验名称:                  gru_bi双循环
+实验时间:                  2022-10-24 18:07:50.508843
+测试集的精度：               0.4424213187063035
+训练集的精度：               0.8780286287531199
+训练集占比 ：                0
+训练批次：                  100
+训练学习率：                  0.0001
+模型参数：：
+                  Sequential(
+  (1): GRU_bi(
+    (rnn1): GRU(12, 64, batch_first=True, bidirectional=True)
+  )
+  (2): GRU_bi_toLinear(
+    (rnn1): GRU(128, 32, batch_first=True, bidirectional=True)
+  )
+  (3): Linear(in_features=64, out_features=32, bias=True)
+  (4): ReLU()
+  (5): Linear(in_features=32, out_features=10, bias=True)
+)
+-------------------------------------------
+
+
+
+日志参数       |        参数值
+----------------------------------
+实验名称:                  gru_bi双循环
+实验时间:                  2022-12-07 19:23:02.876583
+测试集的精度：               -0.053768748617641915
+训练集的精度：               0.5022227292154087
+训练集占比 ：                0
+训练批次：                  3
+训练学习率：                  0.0001
+模型参数：：
+                  Sequential(
+  (1): GRU_bi(
+    (rnn1): GRU(12, 64, batch_first=True, bidirectional=True)
+  )
+  (2): GRU_bi_toLinear(
+    (rnn1): GRU(128, 32, batch_first=True, bidirectional=True)
+  )
+  (3): Linear(in_features=64, out_features=32, bias=True)
+  (4): ReLU()
+  (5): Linear(in_features=32, out_features=50, bias=True)
+)
+-------------------------------------------
+
+
+
+��־����       |        ����ֵ
+----------------------------------
+ʵ������:                  gru_bi˫ѭ��
+ʵ��ʱ��:                  2024-01-28 14:38:32.877350
+���Լ��ľ��ȣ�               -0.015469318697565182
+ѵ�����ľ��ȣ�               0.3114358286992588
+ѵ����ռ�� ��                0
+ѵ�����Σ�                  3
+ѵ��ѧϰ�ʣ�                  0.0001
+ģ�Ͳ�������
+                  Sequential(
+  (1): GRU_bi(
+    (rnn1): GRU(12, 64, batch_first=True, bidirectional=True)
+  )
+  (2): GRU_bi_toLinear(
+    (rnn1): GRU(128, 32, batch_first=True, bidirectional=True)
+  )
+  (3): Linear(in_features=64, out_features=32, bias=True)
+  (4): ReLU()
+  (5): Linear(in_features=32, out_features=50, bias=True)
+)
+-------------------------------------------
+
+
+
+��־����       |        ����ֵ
+----------------------------------
+ʵ������:                  gru_bi˫ѭ��
+ʵ��ʱ��:                  2024-02-01 19:47:39.729611
+���Լ��ľ��ȣ�               -1.7499620716511255
+ѵ�����ľ��ȣ�               0.8518634262771649
+ѵ����ռ�� ��                0
+ѵ�����Σ�                  10
+ѵ��ѧϰ�ʣ�                  0.0001
+ģ�Ͳ�������
+                  Sequential(
+  (1): GRU_bi(
+    (rnn1): GRU(12, 64, batch_first=True, bidirectional=True)
+  )
+  (2): GRU_bi_toLinear(
+    (rnn1): GRU(128, 32, batch_first=True, bidirectional=True)
+  )
+  (3): Linear(in_features=64, out_features=32, bias=True)
+  (4): ReLU()
+  (5): Linear(in_features=32, out_features=50, bias=True)
+)
+-------------------------------------------
+
+
