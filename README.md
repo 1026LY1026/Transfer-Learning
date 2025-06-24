@@ -62,41 +62,29 @@ cuda:11**
 GRU：GRU对比试验部分代码
 lstm：LSTM对比实验部分代码
 tf_rop/train：迁移学习实验部分代码
-![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/7b4bf8d0a5bd4d218d78dccf204e5e74.png)
+
 ## tf_rop/train文件夹下代码说明
 
 
-fineD_bz10.py   模型冻结实实验 （BH油田）
 
-fineD_well3.py  模型冻结实验 （XJ油田）
+| 文件名                      | 功能描述          |
+| :----------------------- | :------------ |
+| fineD\_bz10.py           | 模型冻结实验（BH 油田） |
+| fineD\_well3.py          | 模型冻结实验（XJ 油田） |
+| fine\_tuning\_well\_3.py | 模型微调实验（XJ 油田） |
+| fine\_tunning\_bz10.py   | 模型微调实验（BH 油田） |
+| pre\_train.py            | 模型预训练         |
+| pyplot\_make.py          | 实验数据画图        |
+| rop\_plot.py             | 实验数据画图        |
+| test.py                  | 基于训练好的模型进行测试  |
+| test\_data.py            | 测试集数据预处理      |
+| tf\_model.py             | 模型            |
+| train.py                 | 模型训练          |
+| train\_data.py           | 训练集数据预处理      |
+| train\_test\_plot.py     | 测试结果画图        |
+| trm\_model.py            | 模型迁移冻结        |
+| utility.py               | 模型参数设置        |
 
-fine_tuning_well_3.py
-
-fine_tunning_bz10.py
-
-pre_train.py
-
-pyplot_make.py
-
-rop_plot.py
-
-setup.py
-
-test.py
-
-test_data.py
-
-tf_model.py
-
-train.py
-
-train_data.py
-
-train_test_plot.py
-
-trm_model.py
-
-utility.py
 
 
 ```
